@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33420621/README.md)
+
 FinTrack — secure personal finance tracker
 
 FinTrack tracks accounts, transactions, budgets, goals, and investments. This copy adds local AI categorization with Ollama, data-driven financial insights, and HTTPS through Caddy. It does not need a paid AI API key.
